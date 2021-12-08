@@ -1,5 +1,4 @@
-### DesignPatternsPython
-Headfirst design patters in Python
+## DesignPatternsPython
 
 1. Strategy pattern
 2. Observer pattern
