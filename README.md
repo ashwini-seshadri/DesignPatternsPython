@@ -1,4 +1,4 @@
-# DesignPatternsPython
+### DesignPatternsPython
 Headfirst design patters in Python
 
 1. Strategy pattern
